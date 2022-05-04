@@ -9,6 +9,6 @@ To compile:
 
 To run:
 
--> On windows: `euler.exe`
+> On windows: `euler.exe`
 
--> On mac/linux: `./euler.hs`
+> On mac/linux: `./euler.hs`
