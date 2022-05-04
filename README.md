@@ -7,4 +7,7 @@ Here you can find the list with all the problems available: https://projecteuler
 To compile:
 `ghc euler.hs`
 
-//still not compilable :) 
+To run:
+
+> On windows: `euler.exe`
+> On mac/linux: `./euler.hs`
